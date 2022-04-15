@@ -2,7 +2,7 @@
 During my very very explorative nonesense, I came across the following error.
 
 ```
-zsh corrupt history file /home/george/.zsh_history
+zsh corrupt history file /home/usr/.zsh_history
 ```
 Now if you read the article linked below you will find out how this would happend also get to understand what you are trying to fix
 Attributed to: https://shapeshed.com/zsh-corrupt-history-file/
