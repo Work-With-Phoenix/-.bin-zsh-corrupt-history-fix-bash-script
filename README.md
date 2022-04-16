@@ -12,4 +12,14 @@ This repository is a tribute to that after testing it and seeing its validity I 
 
 
 ### Installation & Configuration
+```
+cd ~/bin #or a $PATH of your chosign
+
+#download the repo
+wget https://github.com/Work-With-Phoenix/zsh_history_fix.git
+
+#make the command executable
+chmod +x zsh_history_fix
+
+```
 
